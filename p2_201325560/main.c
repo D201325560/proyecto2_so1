@@ -220,7 +220,7 @@ void ventana_defensor(int max_y,int max_x){
             while(true)
             {
                 cont:
-                sleep(5);
+                sleep(9);
                 millisec++;
                 if(millisec == 100)
                 {
